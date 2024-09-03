@@ -46,4 +46,3 @@ Clone o repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/AdriLucy/e-commerce.git
-cd backend-ecommerce
