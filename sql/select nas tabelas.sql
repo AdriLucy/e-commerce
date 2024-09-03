@@ -1,4 +1,4 @@
-use dbdefendx;
+use dbecommerce;
 
 select * from cliente;
 select * from produto;
