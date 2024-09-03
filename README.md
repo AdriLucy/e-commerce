@@ -32,6 +32,12 @@ O sistema foi desenvolvido com uma arquitetura bem definida, utilizando as camad
 - **Model**: Classes que representam as entidades do sistema.
 - **Exception**: Tratamento de exceções personalizadas para uma melhor resposta ao cliente.
 
+## Estrutura do Projeto
+
+- `src/`: Código-fonte do backend em Java.
+- `docs/`: Dados fictício em JSON para inserir pelo Postman.
+- `sql/`: Script SQL para verificar os dados.
+
 ## Instalação e Configuração
 
 ### 1. Pré-requisitos
