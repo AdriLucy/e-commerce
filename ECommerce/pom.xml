@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>xgun</groupId>
-	<artifactId>DefendX</artifactId>
+	<artifactId>EComerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DefendX</name>
 	<description>Demo project for Spring Boot</description>
